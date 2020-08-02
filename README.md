@@ -1,9 +1,9 @@
 <p align='center'>
-<a href="https://www.linkedin.com/in/pascalluther/"><img height="30" src="https://github.com/lupas/lupas/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@pascalluther"><img height="30" src="https://github.com/lupas/lupas/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/lupas/lupas/blob/main/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/lupas/lupas/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pascal.luther"><img height="30" src="https://github.com/lupas/lupas/blob/main/icons/facebook.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/pascalluther/"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@pascalluther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pascal.luther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/facebook.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hey there - this is Pascal. 👋</h2>
