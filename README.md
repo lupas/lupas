@@ -1,7 +1,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/pascalluther/"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@pascalluther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pascalaborad"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pascalabroad"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/pascalluther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pascal.luther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/facebook.png?raw=true"></a>
 </p>
