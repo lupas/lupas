@@ -30,7 +30,7 @@
 ### 👥 Where to find me
 - [LinkedIn](https://ch.linkedin.com/in/pascalluther)
 - [Medium](https://medium.com/@pascalluther)
-- [Instagram](https://www.instagram.com/pascal.luther/?hl=en)
+- [Instagram](https://www.instagram.com/pascalabroad/?hl=en)
 - [Twitter](https://twitter.com/pascalluther?lang=en)
 - [Facebook](https://www.facebook.com/pascal.luther)
 
