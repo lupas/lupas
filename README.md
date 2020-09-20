@@ -1,3 +1,4 @@
+<img src="https://github.com/lupas/lupas/blob/master/img/header.jpg?raw=true"></img>
 <p align='center'>
 <a href="https://www.linkedin.com/in/pascalluther/"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@pascalluther"><img height="30" src="https://github.com/lupas/lupas/blob/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
