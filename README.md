@@ -19,6 +19,7 @@
 
 ### 💻 What i am currently/done working on
 - From 9 to 5: Top secret work related stuff for Swisscom 😼
+- [LimmatBuddy](https://limmatbuddy.ch/) 🔥
 - [Nuxt/Firebase-Module](https://github.com/nuxt-community/firebase-module) 🔥
 - [Firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) 🔥
 - [Firestore Rulez](https://github.com/lupas/firestore-rulez) 🔥
