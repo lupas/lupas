@@ -36,6 +36,3 @@
 - [Instagram](https://www.instagram.com/pascalabroad/?hl=en)
 - [Twitter](https://twitter.com/pascalluther?lang=en)
 - [Facebook](https://www.facebook.com/pascal.luther)
-
-![lupas's Github Stats](https://github-readme-stats.vercel.app/api?username=lupas&show_icons=true&theme=vue&count_private=true&layout=compact)
-![lupas's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lupas&count_private=true&layout=compact)
