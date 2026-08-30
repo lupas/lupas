@@ -16,9 +16,9 @@ At Swisscom, I lead product direction for a cloud orchestration platform across 
 
 ## Selected products
 
-- [LimmatBuddy](https://luther.ch/projects/limmatbuddy) - Mobile river companion I took from idea to production across web, iOS and Android, reaching up to 400 active users on sunny days
 - [Gymplify](https://luther.ch/projects/gymplify) - Web and mobile SaaS for gym operations and coaching, used by 100+ daily active users
-- [Koreanji](https://luther.ch/projects/koreanji) - Gamified Korean-learning product I created from scratch, reaching 1000+ registered users and 100+ daily active users at peak
+- [LimmatBuddy](https://luther.ch/projects/limmatbuddy) - Mobile river companion I took from idea to production across web, iOS and Android, reaching up to 400 active users on sunny days
+- [Koreanji](https://luther.ch/projects/koreanji) - Gamified Korean-learning product I created from scratch, reaching 100+ daily active users at peak
 
 ## Open source
 
