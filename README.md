@@ -1,40 +1,61 @@
-<img src="https://github.com/lupas/lupas/blob/master/img/header-github.png?raw=true"></img>
+# Hi, I'm Pascal 👋
 
-# Hi, I’m Pascal 👋
+**Founder & developer at [Gymplify](https://www.gymplify.com), with practical AI consulting through [luther.ch](https://luther.ch). Based in Zürich, Switzerland.**
 
-**Senior Technical Product Owner & Product Builder based in Zürich, open to opportunities worldwide.**
+I build web and mobile products, take them into production and keep improving them with real users. Gymplify is my main business. Alongside it, I help business owners and small teams build websites, apps and useful workflows with AI.
 
-I love turning ideas and real-world problems into products people can actually use. I am strongest when the solution is still open - shaping product direction, UX and technical possibilities, rapidly prototyping ideas and working closely with engineering to bring the best ones to life.
+## Gymplify: my main product business
 
-At Swisscom, I lead product direction for a cloud orchestration platform across two DevOps teams. Alongside that, I create and ship my own web and mobile products, increasingly using AI to move faster from idea to working product.
+I founded, built and operate Gymplify, gym management software with branded member apps across web, iOS and Android. I own the work from product discovery and UX through architecture, development, testing, app-store delivery, customer support and daily operations.
 
-## What I bring
+The platform connects memberships, check-in, training plans, progress tracking and member messaging. It has been live since 2021 and has **more than 4,000 registered users as of 6 October 2026**.
 
-- **Product ownership:** product direction, discovery, roadmaps, prioritisation and stakeholder alignment
-- **Technical product leadership:** working closely with engineers and architects, understanding technical trade-offs and turning complex needs into clear decisions
-- **Product building:** UX, rapid prototyping, AI-assisted development and taking web and mobile products from idea to launch
+AI-assisted workflows support implementation, debugging and iteration. Product decisions, testing and release quality remain my responsibility.
 
-## Selected products
+<details>
+<summary>See the Gymplify dashboard and branded member app</summary>
 
-- [Gymplify](https://luther.ch/projects/gymplify) - Web and mobile SaaS for gym operations and coaching, used by 100+ daily active users
-- [LimmatBuddy](https://luther.ch/projects/limmatbuddy) - Mobile river companion I took from idea to production across web, iOS and Android, reaching up to 400 active users on sunny days
-- [Koreanji](https://luther.ch/projects/koreanji) - Gamified Korean-learning product I created from scratch, reaching 100+ daily active users at peak
+[![Gymplify admin dashboard](https://luther.ch/images/projects/gymplify-admin-dashboard.png)](https://www.gymplify.com)
+
+[![Branded Gymplify member app on the App Store](https://luther.ch/images/projects/gymplify-appstore-thebar.png)](https://www.gymplify.com)
+
+</details>
+
+## Build with AI at luther.ch
+
+Since October 2026, I offer one-to-one guidance for business owners and small teams:
+
+- **Find a starting point:** choose useful AI tools and a first step worth trying.
+- **Build together:** work on your real website, app, prototype or workflow and learn as you go.
+- **Get unstuck:** investigate technical problems, understand your project and decide what to try next.
+
+We work by video call or in person. Your code, accounts and hosting stay in your name so you can take the project forward independently. Consulting is provided through Gymplify GmbH.
+
+[Explore Build with AI](https://luther.ch) · [Book a free 20-minute introductory call](https://cal.com/gymplify)
+
+## From idea to production
+
+My work combines AI-assisted development, web and mobile apps, workflow automation, testing, deployment and technical support. I use tools such as ChatGPT, Codex and MCP integrations, drawing on a hands-on engineering and product background.
+
+I also built and operate [LimmatBuddy](https://limmatbuddy.ch), a river companion across web, iOS and Android with live conditions, safety information, maps and routing. It reaches up to 400 daily users on sunny days.
+
+<details>
+<summary>See LimmatBuddy on web and mobile</summary>
+
+[![LimmatBuddy web and mobile app](https://luther.ch/images/projects/limmatbuddy.png)](https://limmatbuddy.ch)
+
+</details>
+
+My Swisscom employment ends in October 2026 as I focus on Gymplify and AI consulting. That experience spans cloud platforms, engineering leadership, automation and production operations.
 
 ## Open source
 
-My earlier open-source work includes the [Nuxt Firebase module](https://github.com/nuxt-community/firebase-module), a legacy Nuxt 2 integration with more than 600 GitHub stars.
+My earlier work includes the [Nuxt Firebase module](https://github.com/nuxt-community/firebase-module), a legacy Nuxt 2 integration, and other Vue and Firebase tools. These remain part of my engineering background.
 
-It represents an earlier chapter of my work in the Vue, Nuxt and Firebase ecosystem and demonstrates open-source initiative, documentation, community involvement and adoption.
+## Let's build
 
-## Current direction
+Have an idea, a workflow to improve or an AI-built project you want to understand?
 
-I am available from **1 November 2026** and looking for senior Product Owner and technical product roles where I can shape new products and features close to UX and engineering.
-
-I am particularly interested in customer-facing web, mobile and interactive products, especially where there is room to explore ideas, prototype quickly and turn promising concepts into real products.
-
-I am open to opportunities in Zürich and internationally, as well as selected product and prototyping mandates through my company, Gymplify GmbH.
-
-## Find me
-
-- [Portfolio & CV](https://luther.ch)
-- [LinkedIn](https://www.linkedin.com/in/pascalluther)
+- [Build with AI: luther.ch](https://luther.ch)
+- [Gymplify](https://www.gymplify.com)
+- [LinkedIn](https://www.linkedin.com/in/pascalluther/)
